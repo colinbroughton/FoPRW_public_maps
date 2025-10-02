@@ -1,0 +1,1 @@
+var json_Working_bee_location_1 = {"type":"FeatureCollection","name":"Working_bee_location_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1"},"geometry":{"type":"Point","coordinates":[145.102596497908451,-37.685182898065008]}}]}
