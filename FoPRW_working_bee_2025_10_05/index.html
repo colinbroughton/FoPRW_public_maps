@@ -164,5 +164,12 @@
             resetLabels([layer_Working_bee_location_1]);
         });
         </script>
-    </body>
+    <script>
+		window.addEventListener('load', function () {
+			setTimeout(function () {
+				map.invalidateSize();
+			}, 500);
+		});
+	</script>
+	</body>
 </html>
